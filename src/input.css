@@ -19,3 +19,11 @@
   stroke: #B88E2F;
   fill: #B88E2F;}
 
+@media (max-width: 640px) {
+  .small {
+      margin-top: 50px;
+      margin-right: 20px;
+      margin-bottom: 50px;
+      margin-left: 10px;
+  }
+}
