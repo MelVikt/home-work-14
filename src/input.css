@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navcol:hover svg path {
+  fill: #B88E2F;
+  stroke: #B88E2F;
+}
+
+.bg-img {
+  background-image: url('../images/background.png');
+} 
+
+.c-img:hover p {
+  color: #B88E2F;
+}
+
+.over a:hover svg path {  
+  stroke: #B88E2F;
+  fill: #B88E2F;}
+
